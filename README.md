@@ -1,5 +1,4 @@
 # cpp_node
-随风潜入夜 润物细无声
    春夜喜雨
    唐·杜甫
    hǎo yǔ zhī shí jié   dāng chūn nǎi fā shēng   
